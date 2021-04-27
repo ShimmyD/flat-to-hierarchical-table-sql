@@ -25,7 +25,7 @@ with org_chart (
 ---use join to turn a flat employee table to a hierarchical employee table
 
 -- create top three hierarchical levels Director, GS and superivosr. Top level is always director, but the hierarchyy can go down many different levels in different section.
--- To ensure we capture all levels we extend hierarchical level to 9th level
+-- To ensure we capture all levels we extend hierarchical level to 8th level
 SELECT
 	Director.Employee_id lvl_01_Employee_id, Director.Employee_name Director,
 	GS.Employee_id lvl_02_Employee_id, GS.Employee_name GS,

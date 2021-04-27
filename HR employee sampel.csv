@@ -1,0 +1,10 @@
+Branch,Dept,EmailAddress,EmployeeID,Name ,HRStatus,IsLicenceSuspended,OprID,Position,RegTemp,Supervisor
+Operations,Internal,NULL,2398,colin smith,Inactive,N,NULL,Survey Technician II,Regular,Robin Vincent
+Operations,Internal,NULL,20781,robin Vincent,Inactive,N,NULL,Word/Data Processing Clerk III,Regular,Marria Muller
+Operations,Internal,NULL,23843,Gregory Robers,Inactive,N,NULL,Survey Technical Asst I - 8hrs,Temporary,Marria Muller
+Operations,Internal,NULL,28271,Marria muller,Inactive,N,NULL,Training & Safety Instructor,Regular,Victoria Simpson
+Operations,Internal,NULL,45210,Dawson A Harrison,Inactive,N,NULL,Labourer I,Temporary,Peter H Davis
+Operations,Internal,NULL,48181,Scott Black,Inactive,N,NULL,Equipment Operator III,Regular,Victor Chen
+Operations,Internal,NULL,50692,Victor Chen,Inactive,N,NULL,Survey Technical Assistant I,Temporary,Brain Matheson
+Operations,Internal,NULL,50793,Peter H Davis,Inactive,N,NULL,Survey Technician I,Regular,Victoria Simpson
+Operations,Internal,NULL,51903,Dan Grant,Inactive,N,NULL,Engineering Technologist III,Regular,Victor Chen
